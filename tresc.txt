@@ -1,0 +1,67 @@
+Zadania dla numeru albumu: 125613.
+Zadanie nr 45.
+
+Przyjaciele:
+Jarek, Franek, Stefan, Albert, Szymon, Robert, Marcin
+mieszkają w jednym budynku, każdy na innym piętrze (0, 1, 2, ...).
+
+Każdy z nich ma inne zwierzę:
+psa, kota, rybkę, chomika, papugę, węża, kanarka.
+
+Na którym piętrze mieszka każdy z nich i jakie ma zwierzę, jeśli następujące zdania są prawdą?
+1. Robert nie ma węża.
+2. Właściciel węża mieszka na piętrze 6.
+3. Franek mieszka niżej niż Stefan.
+4. Właściciel psa mieszka na piętrze 0.
+5. Franek mieszka niżej niż Robert.
+6. Właściciel chomika mieszka na piętrze 5.
+7. Szymon mieszka niżej niż Robert.
+8. Właściciel rybki mieszka na piętrze 1.
+9. Stefan mieszka wyżej niż Szymon.
+10. Albert nie ma węża.
+11. Stefan mieszka wyżej niż Marcin.
+12. Właściciel kanarka mieszka na piętrze 2.
+13. Robert nie ma rybki.
+14. Jarek nie ma chomika.
+15. Robert mieszka wyżej niż Albert.
+16. Stefan nie ma kanarka.
+17. Albert mieszka wyżej niż Jarek.
+18. Właściciel papugi mieszka na piętrze 3.
+19. Właściciel kota mieszka na piętrze 4.
+20. Szymon nie ma kota.
+21. Szymon mieszka wyżej niż Albert.
+22. Marcin mieszka wyżej niż Robert.
+23. Jarek nie ma rybki.
+24. Albert nie ma kota.
+25. Jarek mieszka niżej niż Stefan.
+26. Albert nie ma chomika.
+27. Marcin mieszka wyżej niż Franek.
+28. Jarek mieszka niżej niż Franek.
+29. Franek mieszka niżej niż Albert.
+30. Szymon mieszka wyżej niż Franek.
+31. Marcin mieszka wyżej niż Szymon.
+32. Marcin mieszka wyżej niż Jarek.
+33. Jarek nie ma papugi.
+34. Robert mieszka niżej niż Stefan.
+35. Szymon mieszka wyżej niż Jarek.
+36. Marcin nie ma kanarka.
+37. Jarek mieszka niżej niż Robert.
+38. Albert mieszka niżej niż Stefan.
+39. Albert mieszka niżej niż Marcin.
+40. Marcin nie ma kota.
+41. Franek nie ma papugi.
+42. Albert nie ma rybki.
+43. Franek nie ma węża.
+44. Szymon nie ma kanarka.
+45. Jarek nie ma kanarka.
+46. Marcin nie ma węża.
+47. Marcin nie ma papugi.
+48. Robert nie ma papugi.
+49. Albert nie ma psa.
+50. Stefan nie ma chomika.
+51. Robert nie ma chomika.
+52. Albert nie ma papugi.
+53. Franek nie ma chomika.
+54. Stefan nie ma papugi.
+55. Jarek nie ma kota.
+56. Jarek nie ma węża.
